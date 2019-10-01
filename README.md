@@ -5,6 +5,8 @@ a short notation for common identifier name in any language
  English        | short1| short2 |
 |:-------------:|:-------------:|:-----:|
 |number	| num | n |
+|index	|idx | i
+|element	|elmt| e
 |integer|	int|
 |string	|str
 |operatoin	|opr
@@ -33,11 +35,16 @@ a short notation for common identifier name in any language
 |matrix	|mtx
 |table	|tbl
 |vector	|vct
-|index	|idx | i
-|element	|elmt| e
 |dictionary	|dctn
 |container	|ctnr
 |convolutional	|conv
 |concatenation	|cat
 |resource	|res
 |source	|src
+|record |rec
+|object | obj
+|component|cpnt
+|floor | fl
+|transform|trans
+|position|pos
+
