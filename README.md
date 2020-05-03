@@ -1,6 +1,5 @@
 # Identifier-Name-Short-Notation
-a short notation for common identifier name in any language
-
+a short notation for common identifier 
 # 
  English        | short1| short2 |
 |:-------------:|:-------------:|:-----:|
